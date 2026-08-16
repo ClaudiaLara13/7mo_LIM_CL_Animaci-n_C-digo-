@@ -1,7 +1,7 @@
 # 7mo_LIM_CL_Animaci-n_C-digo-
 Codigo de la animación de un cuadrado de 3*3
 
-A=1
+{A=1
 B=4
 
 for Sum = 0 : 0.5 : 10
@@ -22,4 +22,4 @@ clf
     ylim([0 5]);
 pause(0.1)
 
-end
+end}
